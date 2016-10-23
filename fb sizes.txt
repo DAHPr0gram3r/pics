@@ -1,0 +1,3 @@
+full photo size(including deadspace) 180x180px
+main photo size(excluding deadspace) 160x160px
+cover size Loads fastest as an sRGB JPG file that's 851 pixels wide, 315 pixels tall and less than 100 kilobytes
